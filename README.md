@@ -11,16 +11,16 @@ This demonstrates how to deploy the contract and purchase PupperCoin.
   <img src="https://github.com/chirathlv/PupperCoin-Crowdsale/blob/main/Images/Deployment_Token_Sale.gif">
 </p>
 
-# Crowdsale and Token Parameters
-
-<p align="center">
-  <img src="https://github.com/chirathlv/PupperCoin-Crowdsale/blob/main/Images/Parameters.gif">
-</p>
-
 # Import Wallet to MetaMask
 
 To check the bought coin, need to add the coin to MetaMask first. Then it is able to check the balance.
 
 <p align="center">
   <img src="https://github.com/chirathlv/PupperCoin-Crowdsale/blob/main/Images/Import_PUP_Coin.gif">
+</p>
+
+# Crowdsale and Token Parameters
+
+<p align="center">
+  <img src="https://github.com/chirathlv/PupperCoin-Crowdsale/blob/main/Images/Parameters.gif">
 </p>
